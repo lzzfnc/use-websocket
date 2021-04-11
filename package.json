@@ -1,0 +1,19 @@
+{
+  "name": "use-websocket",
+  "version": "1.0.0",
+  "description": "My superb Nuxt.js project",
+  "author": "Kamo",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/composition-api": "^0.22.4",
+    "@vueuse/core": "^4.8.1",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
